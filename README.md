@@ -1,4 +1,4 @@
-content = """# Arduino Distance Detector
+# Arduino Distance Detector
 
 This is a simple Arduino project. It uses a distance sensor to find objects. If an object is close, a motor moves and an LED turns on.
 
